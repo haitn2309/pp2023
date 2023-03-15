@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Tran NGoc Hai
+* Student Name: Tran Ngoc Hai
 * Student ID: BI12-150
 
